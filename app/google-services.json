@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "19872369145",
+    "firebase_url": "https://alushelp-71487.firebaseio.com",
+    "project_id": "alushelp-71487",
+    "storage_bucket": "alushelp-71487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19872369145:android:64c815d74df4a03f",
+        "android_client_info": {
+          "package_name": "alushelp.alushelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19872369145-pstoj5gb8d1l82v5j4n5qd9pgjohf01u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alushelp.alushelp",
+            "certificate_hash": "8f7a0fedbf781a3d855b1d374e58b132c95cf142"
+          }
+        },
+        {
+          "client_id": "19872369145-lghf3esiqredssrp5vv7ifqtodroviqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vtpfCXmf36X1h0LcQVsRR_ruQMK1KH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19872369145-lghf3esiqredssrp5vv7ifqtodroviqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alus Help</string>
+    <string name="Email">Masukkan Email / No.HP</string>
+    <string name="Password">Masukkan Password</string>
+    <string name="LupaPassword">Saya Lupa Password ? </string>
+    <string name="MasukGoogle">Masuk Lewat Google</string>
+    <string name="BelumAkun">Belum Punya Akun ? </string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="minimum_password">Minimal Password</string>
+    <string name="auth_failed">Failed Atuh</string>
+</resources>
